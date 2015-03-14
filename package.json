@@ -1,0 +1,21 @@
+{
+	"name": "react-cloudinary-uploader",
+	"version": "0.0.1",
+	"description": "A React file uploader for Cloudinary",
+	"dependencies":{
+		"body-parser":"^1.4.3",
+		"express": "^4.12.2"
+	},
+	"repository":{
+		"type": "git",
+		"url": "https://github.com/domenicosolazzo/react-cloudinary-uploader"
+	},
+	"keywords":[
+		"react",
+		"fileuploader",
+		"html5",
+		"cloudinary",
+		"base64"
+	],
+	"author":"domenicosolazzo"
+}
